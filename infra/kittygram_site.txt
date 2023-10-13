@@ -1,5 +1,5 @@
-IP: 158.160.77.19
-name_taski: https://deadmaxim-taski.hopto.org/
-name_kittygram: https://maksimkittygram.ru/
-login: admin - kittygram; Admin - taski
-password: Qawsed12345
+IP: 158.160.77.19;
+name_taski: https://deadmaxim-taski.hopto.org/;
+name_kittygram: https://maksimkittygram.ru/;
+login: admin;
+password: Qawsed12345;
